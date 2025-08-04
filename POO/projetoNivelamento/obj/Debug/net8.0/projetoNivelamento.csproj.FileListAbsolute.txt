@@ -1,0 +1,15 @@
+/workspaces/CSharp-projects/POO/projetoNivelamento/bin/Debug/net8.0/projetoNivelamento
+/workspaces/CSharp-projects/POO/projetoNivelamento/bin/Debug/net8.0/projetoNivelamento.deps.json
+/workspaces/CSharp-projects/POO/projetoNivelamento/bin/Debug/net8.0/projetoNivelamento.runtimeconfig.json
+/workspaces/CSharp-projects/POO/projetoNivelamento/bin/Debug/net8.0/projetoNivelamento.dll
+/workspaces/CSharp-projects/POO/projetoNivelamento/bin/Debug/net8.0/projetoNivelamento.pdb
+/workspaces/CSharp-projects/POO/projetoNivelamento/obj/Debug/net8.0/projetoNivelamento.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CSharp-projects/POO/projetoNivelamento/obj/Debug/net8.0/projetoNivelamento.AssemblyInfoInputs.cache
+/workspaces/CSharp-projects/POO/projetoNivelamento/obj/Debug/net8.0/projetoNivelamento.AssemblyInfo.cs
+/workspaces/CSharp-projects/POO/projetoNivelamento/obj/Debug/net8.0/projetoNivelamento.csproj.CoreCompileInputs.cache
+/workspaces/CSharp-projects/POO/projetoNivelamento/obj/Debug/net8.0/projetoNivelamento.sourcelink.json
+/workspaces/CSharp-projects/POO/projetoNivelamento/obj/Debug/net8.0/projetoNivelamento.dll
+/workspaces/CSharp-projects/POO/projetoNivelamento/obj/Debug/net8.0/refint/projetoNivelamento.dll
+/workspaces/CSharp-projects/POO/projetoNivelamento/obj/Debug/net8.0/projetoNivelamento.pdb
+/workspaces/CSharp-projects/POO/projetoNivelamento/obj/Debug/net8.0/projetoNivelamento.genruntimeconfig.cache
+/workspaces/CSharp-projects/POO/projetoNivelamento/obj/Debug/net8.0/ref/projetoNivelamento.dll
