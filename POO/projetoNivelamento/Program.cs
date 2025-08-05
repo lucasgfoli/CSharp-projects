@@ -3,13 +3,33 @@ class projetoNivelamento
 {
     static void Main()
     {
-        NivelamentoHelper.Executar();
+
+        while (true)
+        {
+            Console.WriteLine("Digite uma opção: 'calcular' para iniciar uma sequencia e 'Parar' para sair.");
+            string opcao = Console.ReadLine();
+
+            switch (opcao)
+            {
+                case "calcular":
+                    var resultados = NivelamentoHelper.Executar();
+                    NivelamentoHelper.ExibirResultados(resultados.count, resultados.soma, resultados.media, resultados.menor, resultados.maior);
+                    break;
+                case "parar":
+                    return;
+                default:
+                    Console.WriteLine("Digite uma opção válida!");
+                    break;
+            }
+
+        }
+
     }
 }
 
 public static class NivelamentoHelper
 {
-    public static void Executar()
+    public static (int count, int soma, double media, int menor, int maior) Executar()
     {
         int valor;
         int count = 0;
@@ -29,8 +49,10 @@ public static class NivelamentoHelper
         if (count > 0)
         {
             double media = CalcularMedia(soma, count);
-            ExibirResultados(count, soma, media, menor, maior);
+            return (count, soma, media, menor, maior);
         }
+        else
+            return (0, 0, 0, 0, 0);
 
     }
     public static int Numero()
