@@ -1,0 +1,15 @@
+/workspaces/CSharp-projects/jogo-da-velha/bin/Debug/net8.0/jogo-da-velha
+/workspaces/CSharp-projects/jogo-da-velha/bin/Debug/net8.0/jogo-da-velha.deps.json
+/workspaces/CSharp-projects/jogo-da-velha/bin/Debug/net8.0/jogo-da-velha.runtimeconfig.json
+/workspaces/CSharp-projects/jogo-da-velha/bin/Debug/net8.0/jogo-da-velha.dll
+/workspaces/CSharp-projects/jogo-da-velha/bin/Debug/net8.0/jogo-da-velha.pdb
+/workspaces/CSharp-projects/jogo-da-velha/obj/Debug/net8.0/jogo-da-velha.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CSharp-projects/jogo-da-velha/obj/Debug/net8.0/jogo-da-velha.AssemblyInfoInputs.cache
+/workspaces/CSharp-projects/jogo-da-velha/obj/Debug/net8.0/jogo-da-velha.AssemblyInfo.cs
+/workspaces/CSharp-projects/jogo-da-velha/obj/Debug/net8.0/jogo-da-velha.csproj.CoreCompileInputs.cache
+/workspaces/CSharp-projects/jogo-da-velha/obj/Debug/net8.0/jogo-da-velha.sourcelink.json
+/workspaces/CSharp-projects/jogo-da-velha/obj/Debug/net8.0/jogo-da-velha.dll
+/workspaces/CSharp-projects/jogo-da-velha/obj/Debug/net8.0/refint/jogo-da-velha.dll
+/workspaces/CSharp-projects/jogo-da-velha/obj/Debug/net8.0/jogo-da-velha.pdb
+/workspaces/CSharp-projects/jogo-da-velha/obj/Debug/net8.0/jogo-da-velha.genruntimeconfig.cache
+/workspaces/CSharp-projects/jogo-da-velha/obj/Debug/net8.0/ref/jogo-da-velha.dll
