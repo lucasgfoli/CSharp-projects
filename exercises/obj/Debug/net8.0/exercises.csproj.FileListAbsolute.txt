@@ -1,0 +1,15 @@
+/workspaces/CSharp-projects/exercises/obj/Debug/net8.0/exercises.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CSharp-projects/exercises/obj/Debug/net8.0/exercises.AssemblyInfoInputs.cache
+/workspaces/CSharp-projects/exercises/obj/Debug/net8.0/exercises.AssemblyInfo.cs
+/workspaces/CSharp-projects/exercises/obj/Debug/net8.0/exercises.csproj.CoreCompileInputs.cache
+/workspaces/CSharp-projects/exercises/obj/Debug/net8.0/exercises.sourcelink.json
+/workspaces/CSharp-projects/exercises/bin/Debug/net8.0/exercises
+/workspaces/CSharp-projects/exercises/bin/Debug/net8.0/exercises.deps.json
+/workspaces/CSharp-projects/exercises/bin/Debug/net8.0/exercises.runtimeconfig.json
+/workspaces/CSharp-projects/exercises/bin/Debug/net8.0/exercises.dll
+/workspaces/CSharp-projects/exercises/bin/Debug/net8.0/exercises.pdb
+/workspaces/CSharp-projects/exercises/obj/Debug/net8.0/exercises.dll
+/workspaces/CSharp-projects/exercises/obj/Debug/net8.0/refint/exercises.dll
+/workspaces/CSharp-projects/exercises/obj/Debug/net8.0/exercises.pdb
+/workspaces/CSharp-projects/exercises/obj/Debug/net8.0/exercises.genruntimeconfig.cache
+/workspaces/CSharp-projects/exercises/obj/Debug/net8.0/ref/exercises.dll
