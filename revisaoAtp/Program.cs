@@ -199,3 +199,67 @@ class Program
         Console.WriteLine("A quantidade de números pares é: {0} e de números ímpares: {1}", par, impar);
     }
 }
+
+class Atividade3
+{
+    static void Main()
+    {
+        TotalExercicios();
+    }
+
+    static double TotalExercicios()
+    {
+        double[] notas = new double[4];
+        double soma = 0;
+
+        for (int i = 0; i < 4; i++)
+        {
+            Console.WriteLine($"Digite a nota {i + 1} de 0 a 10");
+            notas[i] = double.Parse(Console.ReadLine());
+
+            if (notas[i] > 10 || notas[i] < 0)
+            {
+                Console.WriteLine("Digite uma nota de 0 a 10!");
+                i--;
+            }
+        }
+
+        for (int i = 0; i < 4; i++)
+            soma += notas[i];
+
+        double media = soma / 4;
+        double peso = media * 0.2;
+
+        return peso;
+    }
+
+    static double TotalProvas()
+    {
+        double prova1 = LerNota("Digite a primeira nota (de 0 a 100)");
+        double prova2 = LerNota("Digite a segunda nota (de 0 a 100)");
+
+        double media = (prova1 + prova2) / 2;
+
+        double peso = media * 0.6;
+
+        return peso;
+    }
+
+    static double LerNota(string mensagem)
+{
+    double nota;
+
+    do
+    {
+        Console.WriteLine(mensagem);
+        nota = double.Parse(Console.ReadLine());
+
+        if (nota < 0 || nota > 100)
+            Console.WriteLine("Nota inválida! Digite um valor entre 0 e 100.");
+        
+    } while (nota < 0 || nota > 100);
+
+    return nota;
+}
+
+}

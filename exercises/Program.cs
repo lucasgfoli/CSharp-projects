@@ -64,4 +64,5 @@ class Program
         Console.WriteLine($"A soma da diagonal secundária da matriz é {somaSecundaria}");
         Console.WriteLine("A média dos valores da matriz é {0:F2}", media);
     }
-}
+
+       }
