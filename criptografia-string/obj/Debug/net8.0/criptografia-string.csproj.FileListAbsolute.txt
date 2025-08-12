@@ -1,0 +1,15 @@
+/workspaces/CSharp-projects/criptografia-string/obj/Debug/net8.0/criptografia-string.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CSharp-projects/criptografia-string/obj/Debug/net8.0/criptografia-string.AssemblyInfoInputs.cache
+/workspaces/CSharp-projects/criptografia-string/obj/Debug/net8.0/criptografia-string.AssemblyInfo.cs
+/workspaces/CSharp-projects/criptografia-string/obj/Debug/net8.0/criptografia-string.csproj.CoreCompileInputs.cache
+/workspaces/CSharp-projects/criptografia-string/obj/Debug/net8.0/criptografia-string.sourcelink.json
+/workspaces/CSharp-projects/criptografia-string/bin/Debug/net8.0/criptografia-string
+/workspaces/CSharp-projects/criptografia-string/bin/Debug/net8.0/criptografia-string.deps.json
+/workspaces/CSharp-projects/criptografia-string/bin/Debug/net8.0/criptografia-string.runtimeconfig.json
+/workspaces/CSharp-projects/criptografia-string/bin/Debug/net8.0/criptografia-string.dll
+/workspaces/CSharp-projects/criptografia-string/bin/Debug/net8.0/criptografia-string.pdb
+/workspaces/CSharp-projects/criptografia-string/obj/Debug/net8.0/criptografia-string.dll
+/workspaces/CSharp-projects/criptografia-string/obj/Debug/net8.0/refint/criptografia-string.dll
+/workspaces/CSharp-projects/criptografia-string/obj/Debug/net8.0/criptografia-string.pdb
+/workspaces/CSharp-projects/criptografia-string/obj/Debug/net8.0/criptografia-string.genruntimeconfig.cache
+/workspaces/CSharp-projects/criptografia-string/obj/Debug/net8.0/ref/criptografia-string.dll
