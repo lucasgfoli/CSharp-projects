@@ -1,0 +1,15 @@
+/workspaces/CSharp-projects/verificar-email/obj/Debug/net8.0/imprimir-retangulo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CSharp-projects/verificar-email/obj/Debug/net8.0/imprimir-retangulo.AssemblyInfoInputs.cache
+/workspaces/CSharp-projects/verificar-email/obj/Debug/net8.0/imprimir-retangulo.AssemblyInfo.cs
+/workspaces/CSharp-projects/verificar-email/obj/Debug/net8.0/imprimir-retangulo.csproj.CoreCompileInputs.cache
+/workspaces/CSharp-projects/verificar-email/obj/Debug/net8.0/imprimir-retangulo.sourcelink.json
+/workspaces/CSharp-projects/verificar-email/bin/Debug/net8.0/imprimir-retangulo
+/workspaces/CSharp-projects/verificar-email/bin/Debug/net8.0/imprimir-retangulo.deps.json
+/workspaces/CSharp-projects/verificar-email/bin/Debug/net8.0/imprimir-retangulo.runtimeconfig.json
+/workspaces/CSharp-projects/verificar-email/bin/Debug/net8.0/imprimir-retangulo.dll
+/workspaces/CSharp-projects/verificar-email/bin/Debug/net8.0/imprimir-retangulo.pdb
+/workspaces/CSharp-projects/verificar-email/obj/Debug/net8.0/imprimir-retangulo.dll
+/workspaces/CSharp-projects/verificar-email/obj/Debug/net8.0/refint/imprimir-retangulo.dll
+/workspaces/CSharp-projects/verificar-email/obj/Debug/net8.0/imprimir-retangulo.pdb
+/workspaces/CSharp-projects/verificar-email/obj/Debug/net8.0/imprimir-retangulo.genruntimeconfig.cache
+/workspaces/CSharp-projects/verificar-email/obj/Debug/net8.0/ref/imprimir-retangulo.dll
