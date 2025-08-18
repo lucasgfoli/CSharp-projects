@@ -1,0 +1,15 @@
+/workspaces/CSharp-projects/reforço-POO/obj/Debug/net8.0/reforço-POO.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CSharp-projects/reforço-POO/obj/Debug/net8.0/reforço-POO.AssemblyInfoInputs.cache
+/workspaces/CSharp-projects/reforço-POO/obj/Debug/net8.0/reforço-POO.AssemblyInfo.cs
+/workspaces/CSharp-projects/reforço-POO/obj/Debug/net8.0/reforço-POO.csproj.CoreCompileInputs.cache
+/workspaces/CSharp-projects/reforço-POO/obj/Debug/net8.0/reforço-POO.sourcelink.json
+/workspaces/CSharp-projects/reforço-POO/bin/Debug/net8.0/reforço-POO
+/workspaces/CSharp-projects/reforço-POO/bin/Debug/net8.0/reforço-POO.deps.json
+/workspaces/CSharp-projects/reforço-POO/bin/Debug/net8.0/reforço-POO.runtimeconfig.json
+/workspaces/CSharp-projects/reforço-POO/bin/Debug/net8.0/reforço-POO.dll
+/workspaces/CSharp-projects/reforço-POO/bin/Debug/net8.0/reforço-POO.pdb
+/workspaces/CSharp-projects/reforço-POO/obj/Debug/net8.0/reforço-POO.dll
+/workspaces/CSharp-projects/reforço-POO/obj/Debug/net8.0/refint/reforço-POO.dll
+/workspaces/CSharp-projects/reforço-POO/obj/Debug/net8.0/reforço-POO.pdb
+/workspaces/CSharp-projects/reforço-POO/obj/Debug/net8.0/reforço-POO.genruntimeconfig.cache
+/workspaces/CSharp-projects/reforço-POO/obj/Debug/net8.0/ref/reforço-POO.dll
