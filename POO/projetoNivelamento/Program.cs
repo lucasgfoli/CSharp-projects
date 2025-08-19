@@ -82,4 +82,7 @@ public static class NivelamentoHelper
         Console.WriteLine($"A média dos valores válidos é: {media}.");
         Console.WriteLine($"O menor valor é {menor} e o maior é {maior}.");
     }
+
+
+
 }
