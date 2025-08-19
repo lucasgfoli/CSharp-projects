@@ -29,7 +29,7 @@ class Program
 
     static string Criptografar(string frase)
     {
-        int linhas = (int)Math.Ceiling(frase.Length / 5.0); //
+        int linhas = (int)Math.Ceiling(frase.Length / 5.0); // Arredonda o número de linhas pra cima se necessário.
         char[,] matriz = new char[linhas, 5];
         int index = 0;
 
@@ -64,7 +64,7 @@ class Program
 
     static void Descriptografar(string cripto)
     {
-        string colunasFrase = cripto.Split("*", StringSplitOptions.RemoveEmptyEntries); // 
+        string colunasFrase = cripto.Split("*", StringSplitOptions.RemoveEmptyEntries); // Remove as entradas vazias ou espaços em branco
         string resultado = "";
         int colunas = colunasFrase.Length;
         int linhas = colunasFrase[0].Length; // 
@@ -84,4 +84,5 @@ class Program
 
         Console.WriteLine(resultado);
     }
+
 }
