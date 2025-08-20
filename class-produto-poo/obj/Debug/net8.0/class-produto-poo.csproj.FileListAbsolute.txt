@@ -1,0 +1,15 @@
+/workspaces/CSharp-projects/class-produto-poo/bin/Debug/net8.0/class-produto-poo
+/workspaces/CSharp-projects/class-produto-poo/bin/Debug/net8.0/class-produto-poo.deps.json
+/workspaces/CSharp-projects/class-produto-poo/bin/Debug/net8.0/class-produto-poo.runtimeconfig.json
+/workspaces/CSharp-projects/class-produto-poo/bin/Debug/net8.0/class-produto-poo.dll
+/workspaces/CSharp-projects/class-produto-poo/bin/Debug/net8.0/class-produto-poo.pdb
+/workspaces/CSharp-projects/class-produto-poo/obj/Debug/net8.0/class-produto-poo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CSharp-projects/class-produto-poo/obj/Debug/net8.0/class-produto-poo.AssemblyInfoInputs.cache
+/workspaces/CSharp-projects/class-produto-poo/obj/Debug/net8.0/class-produto-poo.AssemblyInfo.cs
+/workspaces/CSharp-projects/class-produto-poo/obj/Debug/net8.0/class-produto-poo.csproj.CoreCompileInputs.cache
+/workspaces/CSharp-projects/class-produto-poo/obj/Debug/net8.0/class-produto-poo.sourcelink.json
+/workspaces/CSharp-projects/class-produto-poo/obj/Debug/net8.0/class-produto-poo.dll
+/workspaces/CSharp-projects/class-produto-poo/obj/Debug/net8.0/refint/class-produto-poo.dll
+/workspaces/CSharp-projects/class-produto-poo/obj/Debug/net8.0/class-produto-poo.pdb
+/workspaces/CSharp-projects/class-produto-poo/obj/Debug/net8.0/class-produto-poo.genruntimeconfig.cache
+/workspaces/CSharp-projects/class-produto-poo/obj/Debug/net8.0/ref/class-produto-poo.dll
