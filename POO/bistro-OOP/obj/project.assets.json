@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/CSharp-projects/bistro-OOP/bistro-OOP.csproj",
+      "projectUniqueName": "/workspaces/CSharp-projects/POO/bistro-OOP/bistro-OOP.csproj",
       "projectName": "bistro-OOP",
-      "projectPath": "/workspaces/CSharp-projects/bistro-OOP/bistro-OOP.csproj",
+      "projectPath": "/workspaces/CSharp-projects/POO/bistro-OOP/bistro-OOP.csproj",
       "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/CSharp-projects/bistro-OOP/obj/",
+      "outputPath": "/workspaces/CSharp-projects/POO/bistro-OOP/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/codespace/.nuget/NuGet/NuGet.Config"

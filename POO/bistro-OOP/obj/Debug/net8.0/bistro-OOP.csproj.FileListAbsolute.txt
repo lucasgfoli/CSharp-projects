@@ -1,0 +1,15 @@
+/workspaces/CSharp-projects/POO/bistro-OOP/bin/Debug/net8.0/bistro-OOP
+/workspaces/CSharp-projects/POO/bistro-OOP/bin/Debug/net8.0/bistro-OOP.deps.json
+/workspaces/CSharp-projects/POO/bistro-OOP/bin/Debug/net8.0/bistro-OOP.runtimeconfig.json
+/workspaces/CSharp-projects/POO/bistro-OOP/bin/Debug/net8.0/bistro-OOP.dll
+/workspaces/CSharp-projects/POO/bistro-OOP/bin/Debug/net8.0/bistro-OOP.pdb
+/workspaces/CSharp-projects/POO/bistro-OOP/obj/Debug/net8.0/bistro-OOP.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CSharp-projects/POO/bistro-OOP/obj/Debug/net8.0/bistro-OOP.AssemblyInfoInputs.cache
+/workspaces/CSharp-projects/POO/bistro-OOP/obj/Debug/net8.0/bistro-OOP.AssemblyInfo.cs
+/workspaces/CSharp-projects/POO/bistro-OOP/obj/Debug/net8.0/bistro-OOP.csproj.CoreCompileInputs.cache
+/workspaces/CSharp-projects/POO/bistro-OOP/obj/Debug/net8.0/bistro-OOP.sourcelink.json
+/workspaces/CSharp-projects/POO/bistro-OOP/obj/Debug/net8.0/bistro-OOP.dll
+/workspaces/CSharp-projects/POO/bistro-OOP/obj/Debug/net8.0/refint/bistro-OOP.dll
+/workspaces/CSharp-projects/POO/bistro-OOP/obj/Debug/net8.0/bistro-OOP.pdb
+/workspaces/CSharp-projects/POO/bistro-OOP/obj/Debug/net8.0/bistro-OOP.genruntimeconfig.cache
+/workspaces/CSharp-projects/POO/bistro-OOP/obj/Debug/net8.0/ref/bistro-OOP.dll
