@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 class Program
 {
 
@@ -33,6 +34,9 @@ class Program
         // string palavraUser = Console.ReadLine();
 
         // EstilizarString(palavraUser);
+
+        Votos();
+
     }
 
     // static void ImprimirSomaEMedia(int numero)
@@ -136,4 +140,74 @@ class Program
     //         Console.WriteLine(palavra.Substring(0, j)); // Essa substring começa de trás pra frente e vai diminuindo a palavra até chegar em 0;
     //     }
     // }
+
+
+    public static void Votos()
+    {
+        int Votosnulos = 0, votosBrancos = 0;
+        List<string> votosValidos = new List<string>();
+
+        while (true)
+        {
+            Console.WriteLine("Digite o seu voto, o primeiro dígito é o andar os dois últimos são o número do apartamento (Ex: 101)");
+            int voto = int.Parse(Console.ReadLine());
+
+            if (!verificarFim(voto)) break;
+
+            if (voto == 0)
+            {
+                votosBrancos++;
+                continue;
+            }
+            else
+            {
+                int andar = voto / 100;
+                int apto = voto % 100;
+
+                if (validarVoto(andar, apto))
+                {
+                    votosValidos.Add(voto);
+                }
+                else
+                {
+                    Console.WriteLine("Voto inválido! Foi considerado como voto nulo");
+                    Votosnulos++;
+                    continue;
+                }
+            }
+
+            int totalVotos = votosValidos.Count + votosBrancos + Votosnulos;
+
+            Console.WriteLine("Resultado da votação:");
+            Console.WriteLine($"Total de votos: {totalVotos}");
+            Console.WriteLine($"Votos válidos: {votosValidos.Count} ({(double)votosValidos.Count / totalVotos:P2})");
+            Console.WriteLine($"Votos em branco: {votosBrancos} ({(double)votosBrancos / totalVotos:F2})");
+            Console.WriteLine($"Votos nulos: {Votosnulos} ({(double)Votosnulos / totalVotos:P2})");
+
+            if (votosValidos.Count > 0)
+            {
+                var candidatoMaisVotado = votosValidos.GroupBy(c => c).OrderByDescending(c => c.Count()).FirstOrDefault(); // GroupBy agrupa os valores iguais, OrderByDescending orderna do maior e FirstOrDefault(com mais incidência ou o padrão).
+                int numero = int.Parse(candidatoMaisVotado.Key);
+                int andarVotado = numero / 100;
+                int aptoVotado = numero % 100;
+
+                Console.WriteLine($"Apto mais votado: {andarVotado}{aptoVotado:D2}"); // Key retorna uma instãncia do GroupBy e exibe duas casas com o D.
+                Console.WriteLine($"Quantidade: {candidatoMaisVotado.Count()}");
+                Console.WriteLine($"Percentual: {(double)candidatoMaisVotado.Count() / votosValidos.Count:P2}"); // P Exibe o percentual com duas casas.
+
+            }
+        }
+    }
+
+    public static bool validarVoto(int andar, int apto)
+    {
+        if (andar > 0 && andar <= 13 && (apto == 01 || apto == 02)) return true;
+
+        return false;
+    }
+
+    public static bool verificarFim(int voto)
+    {
+        return voto != 999;
+    }
 }
