@@ -1,0 +1,15 @@
+/workspaces/CSharp-projects/POO/cadastro-pessoas/obj/Debug/net8.0/cadastro-pessoas.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CSharp-projects/POO/cadastro-pessoas/obj/Debug/net8.0/cadastro-pessoas.AssemblyInfoInputs.cache
+/workspaces/CSharp-projects/POO/cadastro-pessoas/obj/Debug/net8.0/cadastro-pessoas.AssemblyInfo.cs
+/workspaces/CSharp-projects/POO/cadastro-pessoas/obj/Debug/net8.0/cadastro-pessoas.csproj.CoreCompileInputs.cache
+/workspaces/CSharp-projects/POO/cadastro-pessoas/obj/Debug/net8.0/cadastro-pessoas.sourcelink.json
+/workspaces/CSharp-projects/POO/cadastro-pessoas/bin/Debug/net8.0/cadastro-pessoas
+/workspaces/CSharp-projects/POO/cadastro-pessoas/bin/Debug/net8.0/cadastro-pessoas.deps.json
+/workspaces/CSharp-projects/POO/cadastro-pessoas/bin/Debug/net8.0/cadastro-pessoas.runtimeconfig.json
+/workspaces/CSharp-projects/POO/cadastro-pessoas/bin/Debug/net8.0/cadastro-pessoas.dll
+/workspaces/CSharp-projects/POO/cadastro-pessoas/bin/Debug/net8.0/cadastro-pessoas.pdb
+/workspaces/CSharp-projects/POO/cadastro-pessoas/obj/Debug/net8.0/cadastro-pessoas.dll
+/workspaces/CSharp-projects/POO/cadastro-pessoas/obj/Debug/net8.0/refint/cadastro-pessoas.dll
+/workspaces/CSharp-projects/POO/cadastro-pessoas/obj/Debug/net8.0/cadastro-pessoas.pdb
+/workspaces/CSharp-projects/POO/cadastro-pessoas/obj/Debug/net8.0/cadastro-pessoas.genruntimeconfig.cache
+/workspaces/CSharp-projects/POO/cadastro-pessoas/obj/Debug/net8.0/ref/cadastro-pessoas.dll

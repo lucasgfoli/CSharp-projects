@@ -1,0 +1,5 @@
+/workspaces/CSharp-projects/POO_Exerc_Classes/Exerc_4/obj/Debug/net8.0/Exerc_4.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CSharp-projects/POO_Exerc_Classes/Exerc_4/obj/Debug/net8.0/Exerc_4.AssemblyInfoInputs.cache
+/workspaces/CSharp-projects/POO_Exerc_Classes/Exerc_4/obj/Debug/net8.0/Exerc_4.AssemblyInfo.cs
+/workspaces/CSharp-projects/POO_Exerc_Classes/Exerc_4/obj/Debug/net8.0/Exerc_4.csproj.CoreCompileInputs.cache
+/workspaces/CSharp-projects/POO_Exerc_Classes/Exerc_4/obj/Debug/net8.0/Exerc_4.sourcelink.json
