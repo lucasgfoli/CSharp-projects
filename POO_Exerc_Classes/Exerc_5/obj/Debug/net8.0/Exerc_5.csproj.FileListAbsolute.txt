@@ -1,0 +1,15 @@
+/workspaces/CSharp-projects/POO_Exerc_Classes/Exerc_5/bin/Debug/net8.0/Exerc_5
+/workspaces/CSharp-projects/POO_Exerc_Classes/Exerc_5/bin/Debug/net8.0/Exerc_5.deps.json
+/workspaces/CSharp-projects/POO_Exerc_Classes/Exerc_5/bin/Debug/net8.0/Exerc_5.runtimeconfig.json
+/workspaces/CSharp-projects/POO_Exerc_Classes/Exerc_5/bin/Debug/net8.0/Exerc_5.dll
+/workspaces/CSharp-projects/POO_Exerc_Classes/Exerc_5/bin/Debug/net8.0/Exerc_5.pdb
+/workspaces/CSharp-projects/POO_Exerc_Classes/Exerc_5/obj/Debug/net8.0/Exerc_5.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CSharp-projects/POO_Exerc_Classes/Exerc_5/obj/Debug/net8.0/Exerc_5.AssemblyInfoInputs.cache
+/workspaces/CSharp-projects/POO_Exerc_Classes/Exerc_5/obj/Debug/net8.0/Exerc_5.AssemblyInfo.cs
+/workspaces/CSharp-projects/POO_Exerc_Classes/Exerc_5/obj/Debug/net8.0/Exerc_5.csproj.CoreCompileInputs.cache
+/workspaces/CSharp-projects/POO_Exerc_Classes/Exerc_5/obj/Debug/net8.0/Exerc_5.sourcelink.json
+/workspaces/CSharp-projects/POO_Exerc_Classes/Exerc_5/obj/Debug/net8.0/Exerc_5.dll
+/workspaces/CSharp-projects/POO_Exerc_Classes/Exerc_5/obj/Debug/net8.0/refint/Exerc_5.dll
+/workspaces/CSharp-projects/POO_Exerc_Classes/Exerc_5/obj/Debug/net8.0/Exerc_5.pdb
+/workspaces/CSharp-projects/POO_Exerc_Classes/Exerc_5/obj/Debug/net8.0/Exerc_5.genruntimeconfig.cache
+/workspaces/CSharp-projects/POO_Exerc_Classes/Exerc_5/obj/Debug/net8.0/ref/Exerc_5.dll
