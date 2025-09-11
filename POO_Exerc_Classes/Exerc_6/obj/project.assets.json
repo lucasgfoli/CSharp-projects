@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/CSharp-projects/POO/projetoNivelamento/projetoNivelamento.csproj",
-      "projectName": "projetoNivelamento",
-      "projectPath": "/workspaces/CSharp-projects/POO/projetoNivelamento/projetoNivelamento.csproj",
+      "projectUniqueName": "/workspaces/CSharp-projects/POO_Exerc_Classes/Exerc_6/Exerc_6.csproj",
+      "projectName": "Exerc_6",
+      "projectPath": "/workspaces/CSharp-projects/POO_Exerc_Classes/Exerc_6/Exerc_6.csproj",
       "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/CSharp-projects/POO/projetoNivelamento/obj/",
+      "outputPath": "/workspaces/CSharp-projects/POO_Exerc_Classes/Exerc_6/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/codespace/.nuget/NuGet/NuGet.Config"
