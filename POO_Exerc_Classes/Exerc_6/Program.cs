@@ -26,8 +26,8 @@ class Data
     public Data SomarDias(int dias)
     {
         int novoDia = _dia + dias;
-        int novoMes = _mes = _mes;
-        int novoAno = _mes = _mes;
+        int novoMes = _mes;
+        int novoAno = _ano;
 
         while (novoDia > DiasNoMes(novoMes, novoAno))
         {
@@ -44,10 +44,8 @@ class Data
         return new Data(novoDia, novoMes, novoAno);
     }
 
-    public string CompararDatas(Data outraData)
+    public int CompararDatas(Data outraData)
     {
-        int result;
-
         if (_ano > outraData._ano) return 1;
         if (_ano < outraData._ano) return -1;
 
@@ -62,10 +60,10 @@ class Data
 
     public int DiferencaEmDias(Data outraData)
     {
-        if (CompararDatas(outraData) == 1)
-        {
-            
-        }
+        int diasData1 = this.numeroDeDias();
+        int diasData2 = outraData.numeroDeDias();
+
+        return Math.Abs(diasData1 - diasData2);
     }
 
     private int DiasNoMes(int mes, int ano)
@@ -78,9 +76,45 @@ class Data
         }
     }
 
-    private bool EhBissexto(int ano)
+    private static bool EhBissexto(int ano) // static é usado quando não pertence à classe e não ao objeto, por não usar atributos do objeto.
     {
-        if (ano % 4 == 0 || ano % 400 == 0)
-            return true;
+        return (ano % 400 == 0) || ano % 4 == 0 && ano % 100 != 0;
+    }
+
+    private int ConverterDataEmNumero()
+    {
+        return (_ano * 1000) + (_mes * 100) + _dia;
+    }
+
+    private int numeroDeDias()
+    {
+        int totalDias = 0;
+
+        for (int i = 1; i < _ano; i++)
+        {
+            totalDias += EhBissexto(i) ? 366 : 365;
+        }
+
+        for (int i = 1; i < _mes; i++)
+        {
+            totalDias += DiasNoMes(i, _ano);
+        }
+
+        return totalDias += _dia;
+    }
+
+    public string ExibirData()
+    {
+        return $"{_dia:D2}/{_mes:D2}/{_ano:D4}";
+    }
+}
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        Data d1 = new Data(27, 2, 2024);
+        Data d2 = d1.SomarDias(5);
+        Console.WriteLine(d2.ExibirData());
     }
 }

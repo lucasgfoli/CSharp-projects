@@ -1,0 +1,15 @@
+/workspaces/CSharp-projects/POO_Exerc_Classes/Exerc_6/obj/Debug/net8.0/Exerc_6.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CSharp-projects/POO_Exerc_Classes/Exerc_6/obj/Debug/net8.0/Exerc_6.AssemblyInfoInputs.cache
+/workspaces/CSharp-projects/POO_Exerc_Classes/Exerc_6/obj/Debug/net8.0/Exerc_6.AssemblyInfo.cs
+/workspaces/CSharp-projects/POO_Exerc_Classes/Exerc_6/obj/Debug/net8.0/Exerc_6.csproj.CoreCompileInputs.cache
+/workspaces/CSharp-projects/POO_Exerc_Classes/Exerc_6/obj/Debug/net8.0/Exerc_6.sourcelink.json
+/workspaces/CSharp-projects/POO_Exerc_Classes/Exerc_6/bin/Debug/net8.0/Exerc_6
+/workspaces/CSharp-projects/POO_Exerc_Classes/Exerc_6/bin/Debug/net8.0/Exerc_6.deps.json
+/workspaces/CSharp-projects/POO_Exerc_Classes/Exerc_6/bin/Debug/net8.0/Exerc_6.runtimeconfig.json
+/workspaces/CSharp-projects/POO_Exerc_Classes/Exerc_6/bin/Debug/net8.0/Exerc_6.dll
+/workspaces/CSharp-projects/POO_Exerc_Classes/Exerc_6/bin/Debug/net8.0/Exerc_6.pdb
+/workspaces/CSharp-projects/POO_Exerc_Classes/Exerc_6/obj/Debug/net8.0/Exerc_6.dll
+/workspaces/CSharp-projects/POO_Exerc_Classes/Exerc_6/obj/Debug/net8.0/refint/Exerc_6.dll
+/workspaces/CSharp-projects/POO_Exerc_Classes/Exerc_6/obj/Debug/net8.0/Exerc_6.pdb
+/workspaces/CSharp-projects/POO_Exerc_Classes/Exerc_6/obj/Debug/net8.0/Exerc_6.genruntimeconfig.cache
+/workspaces/CSharp-projects/POO_Exerc_Classes/Exerc_6/obj/Debug/net8.0/ref/Exerc_6.dll
