@@ -115,13 +115,3 @@ class Prato
     }
     public double _notaMedia => _quantidadeConsumida == 0 ? 0 : (double)_somaNotas / _quantidadeConsumida; // Caso a quantidade consumida seja maior que 0, realiza a média das notas.
 }
-
-
-// Implemente um programa Java que permita a cada cliente indicar qual prato consumiu e atribuir uma 
-// nota a este prato. Um número indeterminado de clientes irá fazer as avaliações, até que se indique que o 
-// programa finalize a leitura de avaliações. Então, o programa deve responder qual foi o prato mais consumido, o 
-// prato com a maior nota média, a nota média de cada prato, o prato com a maior quantidade de notas 5 e a nota 
-// média de todos os pratos consumidos no restaurante.
-
-// Get faz parte das propriedades em C#.
-// As propriedades são uma forma de acessar e se permitido, modificar um objeto.
